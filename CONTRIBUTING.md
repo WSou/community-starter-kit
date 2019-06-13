@@ -15,6 +15,6 @@ There are many ways you can help us make this project better. Every repository i
 - **documentation-needed**: Something something
 - **bug-high-priority**: Things that will break
 - **bug-low-priority**: Spelling mistake
-- **help-wanted**: Project 1, Project 2
+- **help-wanted**: Project 1, Project 2, and 3
 
 You can also help by translating documentation and reviewing open pull requests.
